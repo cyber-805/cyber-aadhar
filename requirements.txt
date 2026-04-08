@@ -1,0 +1,6 @@
+Flask==2.3.3
+requests==2.31.0
+beautifulsoup4==4.12.2
+Pillow==10.0.0
+pycryptodome==3.19.0
+pytesseract==0.3.10   # optional – will be ignored on Vercel
